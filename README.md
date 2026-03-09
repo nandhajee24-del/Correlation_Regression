@@ -90,6 +90,6 @@ plt.show()
 <img width="817" height="632" alt="image" src="https://github.com/user-attachments/assets/10b0ff70-af6d-4237-8f3a-c9f55e2c2524" />
 
 # Result
-The co
+The correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
 
 
